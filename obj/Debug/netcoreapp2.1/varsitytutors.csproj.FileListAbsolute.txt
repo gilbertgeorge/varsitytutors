@@ -1,0 +1,11 @@
+C:\dev\varsitytutors\varsitytutors\bin\Debug\netcoreapp2.1\varsitytutors.deps.json
+C:\dev\varsitytutors\varsitytutors\bin\Debug\netcoreapp2.1\varsitytutors.runtimeconfig.json
+C:\dev\varsitytutors\varsitytutors\bin\Debug\netcoreapp2.1\varsitytutors.runtimeconfig.dev.json
+C:\dev\varsitytutors\varsitytutors\bin\Debug\netcoreapp2.1\varsitytutors.dll
+C:\dev\varsitytutors\varsitytutors\bin\Debug\netcoreapp2.1\varsitytutors.pdb
+C:\dev\varsitytutors\varsitytutors\obj\Debug\netcoreapp2.1\varsitytutors.csprojAssemblyReference.cache
+C:\dev\varsitytutors\varsitytutors\obj\Debug\netcoreapp2.1\varsitytutors.csproj.CoreCompileInputs.cache
+C:\dev\varsitytutors\varsitytutors\obj\Debug\netcoreapp2.1\varsitytutors.AssemblyInfoInputs.cache
+C:\dev\varsitytutors\varsitytutors\obj\Debug\netcoreapp2.1\varsitytutors.AssemblyInfo.cs
+C:\dev\varsitytutors\varsitytutors\obj\Debug\netcoreapp2.1\varsitytutors.dll
+C:\dev\varsitytutors\varsitytutors\obj\Debug\netcoreapp2.1\varsitytutors.pdb
